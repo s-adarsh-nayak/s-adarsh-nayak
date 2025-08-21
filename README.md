@@ -1,7 +1,6 @@
 # Hi there, I'm S Adarsh Nayak! 👋
 
-## 🎓 AI/ML Engineering Student | 🔬 Research Enthusiast | 💻 Full-Stack Developer
-
+## 🎓 AI/ML Engineering Student | 🔬 Research Enthusiast 
 Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Technology in **Artificial Intelligence and Machine Learning** at PES University, Bangalore, with a passion for building innovative solutions that bridge the gap between cutting-edge research and real-world applications.
 
 ***
