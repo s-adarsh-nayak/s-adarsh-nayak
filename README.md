@@ -26,13 +26,6 @@ Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Technology i
 
 ***
 
-
-## 📈 GitHub Stats
-
-
-
-***
-
 ⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
 
 ***
