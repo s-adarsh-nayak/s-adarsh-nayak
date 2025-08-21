@@ -5,13 +5,6 @@ Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Technology i
 
 ***
 
-## 🛠️ Technical Arsenal
-
-### **Languages**
-
-### **Frameworks \& Libraries**
-
-### **Databases \& Tools**
 
 **Specialized Skills:**
 
