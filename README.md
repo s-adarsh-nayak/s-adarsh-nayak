@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm currently pursuing my Bachelor of Technology i
 
 - 🤖 Machine Learning \& Deep Learning
 - 📊 Big Data (Hadoop, PySpark, Kafka)
-- ☁️ Cloud Technologies (Kubernetes)
+- ☁️ Cloud Technologies 
 - 📈 Data Science (pandas, NumPy, Matplotlib, Scikit-learn)
 
 ***
